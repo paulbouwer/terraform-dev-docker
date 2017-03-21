@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  // -------- Go configuration -------- 
+
+  // Run 'go build'/'go test -c' on save.
+  "go.buildOnSave": false,
+
+  // Specifies the GOPATH to use when no environment variable is set. The inferred GOPATH from workspace root overrides this, if go.inferGopath is set to true.
+  "go.gopath": "C:\\projects\\terraform",
+
+  // Location to install the Go tools that the extension depends on if you don't want them in your GOPATH.
+  "go.toolsGopath": "C:\\go-workspace"
+
+}
