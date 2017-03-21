@@ -5,7 +5,7 @@ Clone the repo, change into the `terraform-dev-docker` folder and then build the
 ```
 C:\> git clone https://github.com/paulbouwer/terraform-dev-docker .
 C:\> cd C:\GitHub\paulbouwer\terraform-dev-docker
-C:\> docker build -t terraform-dev:0.5 .
+C:\GitHub\paulbouwer\terraform-dev-docker> docker build -t terraform-dev:0.5 .
 ```
 
 # Use Docker image
